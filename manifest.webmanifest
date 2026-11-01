@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "SuVaZu Finanzas",
+  "short_name": "SuVaZu Finanzas",
+  "description": "Control diario de gastos, saldos, deudas y tarjetas de Repartidor SuVaZu.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1419",
+  "theme_color": "#101a20",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
